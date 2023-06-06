@@ -1,4 +1,4 @@
-<h1>HI, MY NAME IS <br>Shubham</h1>
+<h1>HI, My Name Is Shubham</h1>
 <h3>I'm a Front-End Developer</h3>
 
 - 🌱 I’m currently learning **TypeScript**
