@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>HI, MY NAME IS <br>Shubham</h1>
+<h3>I'm a Front-End Developer</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
