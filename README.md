@@ -48,4 +48,4 @@ This is an intimate retreat inspired by its natural surroundings. Offering a ble
 
 I'm currently open to new freelance opportunities and collaborations. If you're looking for a dedicated Next.js developer to bring your vision to life, feel free to reach out!
 
-📧 **Email:** [shubham.kr2951@gmail.com](mailto:shubham.kr2951@gmail.com)
+📧 **Email:**
