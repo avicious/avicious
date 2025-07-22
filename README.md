@@ -44,6 +44,14 @@ This is an intimate retreat inspired by its natural surroundings. Offering a ble
 * **Live Demo:** [Montacqua](https://montacqua.vercel.app/)
 * **GitHub Repo:** [github.com/avicious/montacqua](https://github.com/avicious/montacqua)
 
+### 4. Starlight
+
+An educational npm package build to demonstrate the process of creating, documenting, and publishing a basic JavaScript module to the npm registry. It provides a straightforward function to greet users.
+
+* **Technologies:** JavaScript
+* **NPM Package:** [starlight-sm](https://www.npmjs.com/package/starlight-sm)
+* **GitHub Repo:** [github.com/avicious/starlight-sm](https://github.com/avicious/starlight-sm)
+
 ## 💬 Let's Connect!
 
 I'm currently open to new freelance opportunities and collaborations. If you're looking for a dedicated Next.js developer to bring your vision to life, feel free to reach out!
