@@ -55,5 +55,3 @@ An educational npm package build to demonstrate the process of creating, documen
 ## 💬 Let's Connect!
 
 I'm currently open to new freelance opportunities and collaborations. If you're looking for a dedicated Next.js developer to bring your vision to life, feel free to reach out!
-
-📧 **Email:**
