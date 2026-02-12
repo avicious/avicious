@@ -44,13 +44,11 @@ This is an intimate retreat inspired by its natural surroundings. Offering a ble
 * **Live Demo:** [Montacqua](https://montacqua.vercel.app/)
 * **GitHub Repo:** [github.com/avicious/montacqua](https://github.com/avicious/montacqua)
 
-### 4. Starlight
+## 📂 Project Directory
 
-An educational npm package build to demonstrate the process of creating, documenting, and publishing a basic JavaScript module to the npm registry. It provides a straightforward function to greet users.
-
-* **Technologies:** JavaScript
-* **NPM Package:** [starlight-sm](https://www.npmjs.com/package/starlight-sm)
-* **GitHub Repo:** [github.com/avicious/starlight-sm](https://github.com/avicious/starlight-sm)
+| Project Name | Tech Stack | Links |
+| :--- | :--- | :--- |
+| **OTP Countdown** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/OTP-countdown/) \| [Code](https://github.com/avicious/OTP-countdown) |
 
 ## 💬 Let's Connect!
 
