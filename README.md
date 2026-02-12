@@ -49,7 +49,3 @@ This is an intimate retreat inspired by its natural surroundings. Offering a ble
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
 | **OTP Countdown** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/OTP-countdown/) \| [Code](https://github.com/avicious/OTP-countdown) |
-
-## 💬 Let's Connect!
-
-I'm currently open to new freelance opportunities and collaborations. If you're looking for a dedicated Next.js developer to bring your vision to life, feel free to reach out!
