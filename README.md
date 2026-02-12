@@ -44,8 +44,9 @@ This is an intimate retreat inspired by its natural surroundings. Offering a ble
 * **Live Demo:** [Montacqua](https://montacqua.vercel.app/)
 * **GitHub Repo:** [github.com/avicious/montacqua](https://github.com/avicious/montacqua)
 
-## 📂 Project Directory
+## 📂 Projects
 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
+| **File Size Validator** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/file-size-validation/) \| [Code](https://github.com/avicious/file-size-validation) |
 | **OTP Countdown** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [Demo](https://avicious.github.io/OTP-countdown/) \| [Code](https://github.com/avicious/OTP-countdown) |
