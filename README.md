@@ -1,14 +1,14 @@
-# Hi, I'm Shubham 👋 | Next.js Developer
+# Hi, I'm Shubham | Next.js Developer
 I'm an experienced web developer who is passionate about staying up-to-date with the latest web development technologies like Next.js and React, with a strong foundation in HTML, CSS, and JavaScript. I have worked with WordPress and PHP as well, and I’m currently obsessed with Python.
 
-## ✨ What I Offer
+## What I Offer
 
 * **Custom Next.js Application Development:** From concept to deployment, I build bespoke Next.js applications tailored to your specific needs.
 * **Performance Optimization & SEO:** Enhance your Next.js app's speed, core web vitals, and search engine ranking.
 * **API Integration:** Seamlessly connect your Next.js application with RESTful APIs and third-party services.
 * **UI/UX Implementation:** Craft intuitive and visually appealing user interfaces using modern design systems and frameworks like Tailwind CSS.
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 | Category     | Technologies                                                                                                                                                                                                                                                                  |
 | :----------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -18,7 +18,7 @@ I'm an experienced web developer who is passionate about staying up-to-date with
 | **Deployment**| ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
-## 💼 Featured Projects
+## Featured Projects
 
 ### 1. Triple Shot Cafe
 
@@ -44,7 +44,7 @@ This is an intimate retreat inspired by its natural surroundings. Offering a ble
 * **Live Demo:** [Montacqua](https://montacqua.vercel.app/)
 * **GitHub Repo:** [github.com/avicious/montacqua](https://github.com/avicious/montacqua)
 
-## 📂 Projects
+## Projects
 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
