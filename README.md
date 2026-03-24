@@ -1,4 +1,4 @@
-# Hi, I'm Shubham | Next.js Developer
+# Hi, I'm Shubham | Web Developer
 I'm an experienced web developer who is passionate about staying up-to-date with the latest web development technologies like Next.js and React, with a strong foundation in HTML, CSS, and JavaScript. I have worked with WordPress and PHP as well, and I’m currently obsessed with Python.
 
 ## What I Offer
