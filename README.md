@@ -38,6 +38,12 @@ I'm an experienced web developer who is passionate about staying up-to-date with
 * **Live Demo:** [Montacqua](https://montacqua.vercel.app/)
 * **GitHub Repo:** [github.com/avicious/montacqua](https://github.com/avicious/montacqua)
 
+### 4. Gervais
+
+* **Technologies:** React
+* **Live Demo:** [Gervais](https://gervais-dining.netlify.app/)
+* **GitHub Repo:** [github.com/avicious/gervais-restaurant](https://github.com/avicious/gervais-restaurant)
+
 ## Custom Components
 
 | Project Name | Tech Stack | Links |
