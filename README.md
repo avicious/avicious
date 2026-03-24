@@ -22,29 +22,23 @@ I'm an experienced web developer who is passionate about staying up-to-date with
 
 ### 1. Triple Shot Cafe
 
-A website dedicated for coffee lovers. Indulge in a variety of handcrafted coffee drinks, from classic espressos to innovative concoctions. Perfect for a quick pick-me-up or a leisurely catch-up.
-
-* **Technologies:** Next.js, React
+* **Technologies:** Next.js
 * **Live Demo:** [Triple Shot Cafe](https://triple-shot-cafe-three.vercel.app/)
 * **GitHub Repo:** [github.com/avicious/triple-shot-cafe](https://github.com/avicious/triple-shot-cafe)
 
 ### 2. Silver Spoon
 
-This is a popular multi-cuisine restaurant known for its delicious food and quick delivery. They offer home delivery, catering, and have multiple locations.
-
-* **Technologies:** Next.js, React
+* **Technologies:** Next.js
 * **Live Demo:** [Silver Spoon](https://silver-spoon-ten.vercel.app/)
 * **GitHub Repo:** [github.com/avicious/silver-spoon](https://github.com/avicious/silver-spoon)
 
 ### 3. Montacqua
 
-This is an intimate retreat inspired by its natural surroundings. Offering a blend of luxury and comfort, the resort features stylish accommodations, delectable dining options, and exceptional service.
-
-* **Technologies:** Next.js, React
+* **Technologies:** Next.js
 * **Live Demo:** [Montacqua](https://montacqua.vercel.app/)
 * **GitHub Repo:** [github.com/avicious/montacqua](https://github.com/avicious/montacqua)
 
-## Projects
+## Custom Components
 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
