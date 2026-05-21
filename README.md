@@ -41,6 +41,8 @@ I'm an experienced web developer who is passionate about staying up-to-date with
 ### 4. Ascend
 
 * **Technologies:** React, TailwindCSS, Framer Motion & Web3Forms
+* **Live Demo:** [Ascend](https://ascendagency.netlify.app/)
+* 
 
 ### 5. Gervais
 
