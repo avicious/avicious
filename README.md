@@ -42,7 +42,7 @@ I'm an experienced web developer who is passionate about staying up-to-date with
 
 * **Technologies:** React, TailwindCSS, Framer Motion & Web3Forms
 * **Live Demo:** [Ascend](https://ascendagency.netlify.app/)
-* 
+* **GitHub Repo:** [github.com/avicious/agency](https://github.com/avicious/agency)
 
 ### 5. Gervais
 
