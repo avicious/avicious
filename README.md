@@ -40,6 +40,8 @@ I'm an experienced web developer who is passionate about staying up-to-date with
 
 ### 4. Ascend
 
+* **Technologies:** React, TailwindCSS, Framer Motion & Web3Forms
+
 ### 5. Gervais
 
 * **Technologies:** React
